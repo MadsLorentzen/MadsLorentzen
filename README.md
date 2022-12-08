@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadsLorentzen
-- 👀 Interested in Geophysics, Data Science and Machine Learning
+- 👀 Interested in Geophysics, Data Science and Machine Learning 🐍💻🌍
 - 📫 madslorentzen_17@hotmail.com
 - 👔 https://www.linkedin.com/in/mads-lorentzen/
 <!---
